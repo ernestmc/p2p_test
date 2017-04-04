@@ -1,3 +1,4 @@
 <resources>
   <string name="app_name">Peer2PeerTest</string>
+  <string name="btn_peers">Get Peers</string>
 </resources>
